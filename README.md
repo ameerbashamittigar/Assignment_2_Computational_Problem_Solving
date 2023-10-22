@@ -1,2 +1,0 @@
-# Assignment_2_Computational_Problem_Solving
-Assignment_2_Computational_Problem_Solving
